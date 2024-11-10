@@ -1,0 +1,63 @@
+
+* {
+    background-color: #000000; /* Light gray background */
+  }
+  
+  .letter-container {
+    width: 800px; /* Letter width */
+    margin: 40px auto; /* Center letter */
+    background-color: #2b2222; /* White letter background */
+    padding: 20px;
+    border: 1px solid #473b3b; /* Gray border */
+    color: rgb(238, 238, 238);
+    box-shadow: 0 0 10px rgba(240, 226, 226, 0.1); /* Shadow effect */
+  }
+  
+  .letter-header {
+    text-align: left;
+    margin-bottom: 20px;
+    padding-left: 20px;
+    
+   
+  }
+  
+  .letter-header h1 {
+    font-size: 36px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .letter-body {
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+  }
+  
+  .letter-body ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .letter-body li {
+    margin-bottom: 10px;
+    padding-left: 30px;
+
+  }
+  
+  .letter-body p {
+    margin-bottom: 20px;
+    padding-left: 15px;
+  }
+  
+  .letter-footer {
+    text-align: right;
+    margin-top: 20px;
+
+  }
+  
+  .letter-footer p {
+    font-size: 20px;
+    font-style: italic;
+    padding-right: 30px;
+  }
+
